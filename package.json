@@ -1,14 +1,15 @@
 {
-  "name": "co-views",
-  "version": "0.2.0",
-  "repository": "visionmedia/co-views",
-  "description": "Higher level thunk-based template rendering for Co and others, built on co-render",
+  "name": "co-views-helpers",
+  "version": "0.0.1",
+  "repository": "mko/co-views-helpers",
+  "description": "Helpers-enabled version of visionmedia's co-views. Higher level thunk-based template rendering for Co and others, built on co-render.",
   "keywords": [
     "template",
     "render",
     "consolidate",
     "engine",
-    "koa"
+    "koa",
+    "helpers"
   ],
   "dependencies": {
     "debug": "*",
